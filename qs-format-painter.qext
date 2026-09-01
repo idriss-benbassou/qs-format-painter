@@ -1,0 +1,11 @@
+{
+  "name": "QS Format Painter",
+  "description": "Copy size, position and style from one object to another, inside layout containers too. Align, match sizes and distribute in one click.",
+  "icon": "selections",
+  "type": "visualization",
+  "version": "1.17.4",
+  "preview": "",
+  "author": "Idriss Benbassou",
+  "homepage": "https://www.linkedin.com/in/idriss-benbassou/",
+  "keywords": "format painter, layout container, align, distribute, developer, productivity"
+}
