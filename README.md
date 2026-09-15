@@ -6,6 +6,8 @@ Building a sheet usually means dragging objects until they look right, then repe
 
 ![QS Format Painter](img/1.png)
 
+Video showing how it works : https://lnkd.in/p/eDVe63rg
+
 ## Features
 - Copy size (width and height) between objects
 - Copy position, or apply an offset from the source object
